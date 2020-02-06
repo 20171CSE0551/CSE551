@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>STYLE</title>
+<head>
+<body style="background-image:url('/home/sem6b8/Downloads/index.jpeg');">
+<h1 style="font-family:verdana">the heading</h1>
+<marquee>The sec 8</marquee>
+<p><img src="/home/sem6b8/Downloads/index.jpeg" alt="image as link" style="float:right;width:42px;height:42px;">the image will float to the right of the text</p>
+</body>
+</html>

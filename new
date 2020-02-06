@@ -1,0 +1,16 @@
+<html>
+<head>
+<title> tAble sample</title>
+</head>
+<table style="width:100%" border="1" cellpadding='10' cellspacing='5'>
+<tr>
+<th>1st name</th>
+<th>last name</th>
+<th>age</th>
+</tr>
+<tr>
+<td>Shruthi</td>
+<td> bikaner</td>
+<td>34</td>
+</tr>
+</html>
