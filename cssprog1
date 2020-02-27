@@ -1,0 +1,8 @@
+<head>
+<style>
+body{
+background image:url("/home/sem6b8/Downloads/index.jpeg");
+background-repeat:repeat-y;
+}
+</style>
+</head>

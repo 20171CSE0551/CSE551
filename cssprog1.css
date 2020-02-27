@@ -1,0 +1,23 @@
+
+body{
+background-color:#90F;
+background-image:url("/home/sem6b8/Downloads/index.jpeg");
+background-repeat:repeat-x;
+}
+p
+{
+color:red;
+font-weight:bold;
+letter-spacing:5px;
+direction:rtl;
+text-indent:2cm;
+text-shadow:4px 4px 8px blue;
+text-decoration:line-through;
+}
+img
+{ 
+border:3px solid red ;
+width:150px
+
+}
+
